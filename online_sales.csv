@@ -1,0 +1,6 @@
+transaction_id,customer_id,purchase_date,revenue,channel,email
+T001,C101,01/15/2025,$120.50,Online,john@email.com
+T002,null,2025-01-16,89.99,Store,null
+T003,C103,15-01-2025,-45,Store,mary@email.com
+T003,C103,15-01-2025,-45,Store,mary@email.com
+T004,C104,01/18/2025,$200,Online,sam@email.com

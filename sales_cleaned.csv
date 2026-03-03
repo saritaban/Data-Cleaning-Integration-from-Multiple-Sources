@@ -1,0 +1,6 @@
+transaction_id,customer_id,purchase_date,revenue,channel,email,customer_name,open_rate,engagement_level,engagement_score,year,month,day
+T001,C101,2025-01-15,120.5,Online,john@email.com,,0.45,high,3,2025,1,15
+T004,C104,2025-01-18,200,Online,sam@email.com,,0.12,low,1,2025,1,18
+T006,Store_Unknown,2025-01-19,75,Store,john@email.com,John Smith,0.45,high,3,2025,1,19
+T008,Store_Unknown,2025-01-19,75,Store,john@email.com,John Smith,0.45,high,3,2025,1,19
+T009,Store_Unknown,2025-01-22,180,Store,,,,,,2025,1,22

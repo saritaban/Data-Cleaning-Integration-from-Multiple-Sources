@@ -1,0 +1,5 @@
+transaction_id,customer_name,purchase_date,revenue,channel,email
+T006,John Smith,2025-01-19,75,Store,john@email.com
+T007,Mary Lee,2025-01-20,-40,Store,mary@email.com
+T008,John Smith,2025-01-19,75,Store,john@email.com
+T009,null,2025-01-22,180,Store,null

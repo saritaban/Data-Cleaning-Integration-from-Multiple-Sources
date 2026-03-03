@@ -1,0 +1,4 @@
+email,open_rate,engagement_level
+john@email.com,0.45,High
+mary@email.com,,Medium
+sam@email.com,0.12,Low
