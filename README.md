@@ -23,8 +23,6 @@ The goal of this project was to simulate a realistic business scenario and build
 
 A company collects customer and transaction data from:
 
-CRM system (CSV export)
-
 Marketing platform (Excel file)
 
 Sales database extract (CSV)
