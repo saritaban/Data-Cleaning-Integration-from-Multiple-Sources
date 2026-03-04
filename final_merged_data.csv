@@ -1,0 +1,4 @@
+customer_id,name,email,order_id,amount,payment_method,payment_status
+1,Alice Johnson,alice@email.com,101,250,Credit Card,Completed
+2,Bob Smith,bobsmith@email.com,102,450,Debit Card,Pending
+3,Charlie Brown,charlie@email.com,103,300,Credit Card,Completed
